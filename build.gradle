@@ -61,7 +61,6 @@ repositories {
 
 dependencies {
 	api 'org.polycreo:polycreo-repositories:1.0.0-rc21'
-	api 'org.polycreo:polycreo-chunks:1.0.0-rc17'
 
 	implementation 'org.jetbrains.kotlin:kotlin-stdlib-jdk8'
 	// implementation 'com.fasterxml.jackson.module:jackson-module-kotlin:2.9.8'
